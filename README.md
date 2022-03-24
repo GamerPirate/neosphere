@@ -1,2 +1,0 @@
-# neosphere
-GitHub Pages
